@@ -3,7 +3,10 @@ Backtesting Engine to Backtest Index Strategies (BankNIFTY, NIFTY).
 
 The Python backtesting engine is created by [Prem Agarwal](https://github.com/premagrawal) from the community [Unofficed](https://www.unofficed.com/).
 
-## V1: 
+## Imporant: 
+The most important thing it contains is properly formatted weekly options data of NIFTY and BankNIFTY available in the Internet. We salvaged whatever we could. You can add the rest.
+
+### V1: 
 * This is just the initial dump created a couple months back. 
 * There are lots of mistake and immaturaity as it is coded within a short span of time. 
 * The code have hardcoded path in it too. 
